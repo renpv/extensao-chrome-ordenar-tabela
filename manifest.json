@@ -1,0 +1,10 @@
+{
+    "name": "Sigaa - Extensão para ordenar lista de frequência",
+    "description": "Extensão para google chrome. Ordenar lista de frequência de bolsistas de IC. Só funciona em uma página específica, do Sigaa da Unilab.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+        "default_popup": "index.html"
+    }
+}

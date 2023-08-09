@@ -1,0 +1,19 @@
+form{
+    width: 200px;
+}
+
+label, select, button {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+}
+select, button{
+    height: 30px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: darkgreen;
+    color: white;
+    font-weight: bold;
+}
